@@ -21,7 +21,7 @@ LOCAL_CERTIFICATE := platform
 
 LOCAL_SRC_FILES := $(call all-java-files-under, src)
 
-LOCAL_PACKAGE_NAME := FMRadio
+LOCAL_PACKAGE_NAME := FMRadio-sony
 LOCAL_JNI_SHARED_LIBRARIES := libfmjni
 
 LOCAL_PROGUARD_ENABLED := disabled
